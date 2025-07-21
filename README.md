@@ -1,78 +1,98 @@
-<!-- GitHub Profile README for Vibhaw Kumar Verma -->
+<!-- GitHub README: Vibhaw Kumar Verma -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&color=0078D4&width=800&lines=Hi+I'm+Vibhaw+Kumar+Verma;AI+%26+ML+Enthusiast+🧠;Frontend+Explorer+🌐;LLM+Developer+%7C+LangChain+%7C+OpenAI+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0078D4&width=900&lines=Hey+%F0%9F%91%8B+I'm+Vibhaw+Kumar+Verma;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%92%BB;Building+with+LangChain+%7C+OpenAI+%7C+LLMs" />
 </p>
 
 ---
 
-<h3 align="center">Final-year CSE Artificial Intelligence student passionate about solving real-world problems with intelligent systems 🤖</h3>
+## 👨‍🎓 Who Am I?
+
+I'm **Vibhaw Kumar Verma**, a final-year Computer Science student from India passionate about building smart, scalable, and impactful AI systems. I thrive on solving real-world challenges with Machine Learning, LLMs, NLP, and Computer Vision.
+
+### 🧭 What drives me?
+- Helping people and businesses make better decisions through intelligent tools
+- Exploring how GenAI can change document workflows, research, and automation
+- Blending **ML**, **frontend**, and **user-centric design** for real impact
 
 ---
 
-## 👨‍💻 About Me
+## 🚧 Currently Working On
 
-- 🎯 Currently building: **AI-powered document assistants** (LLMs + LangChain)
-- 🚀 Exploring: **GenAI MLOps**, **ReactJS**, and **Streamlit**
-- 💡 Interests: **Machine Learning**, **NLP**, **Computer Vision**
-- 📍 Location: India | 🧑‍🎓 Final-year CS undergrad
-- 📫 Contact: [vibhawkumarverma@gmail.com](mailto:vibhawkumarverma@gmail.com)
+- 🧾 **AI Document Assistants**: Semantic search + summarization using OpenAI APIs + LangChain  
+- 📊 **MLOps for GenAI**: Deploying LLM-based apps with tools like Streamlit, Docker & Hugging Face Spaces  
+- 🧠 **LLM-Powered Research Tools**: To make reading & summarizing research papers easier
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements & Highlights
 
-### 🔹 [AI Assistant for Summarization](https://github.com/VibhawKumarVerma/AI-Assistant-for-Summarization-)
-A Gemini + LangChain-based assistant that reads PDFs, summarizes them, and answers questions.
-
-### 🔹 [Smart Research Summarizer](https://github.com/VibhawKumarVerma/Smart-Assistant-for-Research-Summarization-)
-NLP-based summarizer that helps researchers extract key insights from academic papers.
-
-### 🔹 [Hand Gesture Recognition](https://github.com/VibhawKumarVerma/HandGesture)
-Real-time gesture recognition using OpenCV and CVZone with webcam integration.
-
-### 🔹 [Rainfall Prediction Model](https://github.com/VibhawKumarVerma/Rainfall-Prediction-model)
-Forecasts rainfall patterns using LSTM networks and historical weather data.
-
-### 🔹 [Customer Churn Prediction](https://github.com/VibhawKumarVerma/churn-prediction-)
-Predicts customer churn with classic ML techniques on business datasets.
+- 🥇 Built multiple full-stack AI projects with GenAI, NLP, and ReactJS
+- 📈 Maintained a consistent GitHub streak while exploring LangChain & multimodal AI
+- 👥 Active contributor to open-source AI & data science projects
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Highlighted Projects
 
-**Languages**  
-Python • JavaScript • HTML/CSS
+### 🤖 [AI Assistant for Summarization](https://github.com/VibhawKumarVerma/AI-Assistant-for-Summarization-)
+> 📄 PDF summarization + QA using Gemini, LangChain, and OpenAI  
+> 🎯 Ideal for students, researchers, and analysts
 
-**AI/ML Tools**  
-TensorFlow • OpenCV • LangChain • scikit-learn
+### 🧪 [Smart Research Summarizer](https://github.com/VibhawKumarVerma/Smart-Assistant-for-Research-Summarization-)
+> 🧠 Extracts insights, abstracts, and conclusions from academic papers using NLP
 
-**Frontend**  
-React.js • Streamlit
+### ✋ [Hand Gesture Recognition](https://github.com/VibhawKumarVerma/HandGesture)
+> 📷 OpenCV + CVZone-based system for gesture-controlled UI applications
 
-**Dev Tools**  
-Git • VS Code • Jupyter Notebook
+### 🌧️ [Rainfall Prediction with LSTM](https://github.com/VibhawKumarVerma/Rainfall-Prediction-model)
+> ⛈️ Forecasts rainfall using time-series data and deep learning
+
+### 📉 [Customer Churn Prediction](https://github.com/VibhawKumarVerma/churn-prediction-)
+> 📊 Predicts churn with classical ML models and EDA on real business data
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Tech Toolbox
+
+### 🧠 AI / Data Science
+`Python` • `LangChain` • `OpenAI API` • `Transformers` • `TensorFlow` • `OpenCV` • `scikit-learn`
+
+### 🌐 Frontend / Web Dev
+`ReactJS` • `HTML/CSS` • `Streamlit` • `JavaScript` • `Bootstrap`
+
+### 🛠 Dev & Tools
+`Git` • `VS Code` • `Jupyter Notebook` • `Docker (learning)` • `Linux CLI`
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VibhawKumarVerma&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VibhawKumarVerma&show_icons=true&theme=default&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhawKumarVerma&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhawKumarVerma&layout=compact&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VibhawKumarVerma&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VibhawKumarVerma&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Goals for 2025
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VibhawKumarVerma-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/vibhawkumarverma)  
-📬 [vibhawkumarverma@gmail.com](mailto:vibhawkumarverma@gmail.com)
+- 🚀 Publish a GenAI research or tutorial blog series
+- 🌍 Contribute to open-source LangChain or Hugging Face tools
+- 🧩 Build a SaaS tool using LLMs and React/Streamlit
+- 🎓 Land a role in applied AI / ML engineering
 
 ---
 
-> _"Learning never exhausts the mind — it only fuels curiosity."_  
-> — *Leonardo da Vinci*
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn: @vibhawkumarverma](https://linkedin.com/in/vibhawkumarverma)
+- 📧 Email: [vibhawkumarverma@gmail.com](mailto:vibhawkumarverma@gmail.com)
+- 💬 Ask me about: LLMs • NLP • Building ML apps • Frontend + AI fusion
+
+---
+
+> _“The future belongs to those who learn more skills and combine them in creative ways.”_ – Robert Greene
