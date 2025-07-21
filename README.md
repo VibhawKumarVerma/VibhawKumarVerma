@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">Final-year CS student passionate about solving real-world problems with intelligent systems 🤖</h3>
+<h3 align="center">Final-year CSE Artificial Intelligence student passionate about solving real-world problems with intelligent systems 🤖</h3>
 
 ---
 
