@@ -1,7 +1,7 @@
 <!-- GitHub README: Vibhaw Kumar Verma -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0078D4&width=900&lines=Hey+%F0%9F%91%8B+I'm+Vibhaw+Kumar+Verma;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%92%BB;Building+with+LangChain+%7C+OpenAI+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0078D4&width=900&lines=Hey+%F0%9F%91%8B+I'm+Vibhaw+Kumar+Verma;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%92%BB;Machine+Learning+Programmar+%F0%9F%92%BB;Building+with+LangChain+%7C+OpenAI+%7C+LLMs" />
 </p>
 
 ---
